@@ -1,13 +1,3 @@
-//
-// Name: Castro, Roberto
-// Project 5
-// Due: Friday May 9, 2025
-// Course: cs-2400-03-sp25
-//
-// Description: MinHeapInterface specifies the methods that are needed to be implemented to use the minheap
-// 
-//
-
 public interface MinHeapInterface<T extends Comparable<? super T>> {
 
 	/** Adds a new entry to this heap.

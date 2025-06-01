@@ -1,13 +1,3 @@
-//
-// Name: Castro, Roberto
-// Project 5
-// Due: Friday May 9, 2025
-// Course: cs-2400-03-sp25
-//
-// Description: A class of vertices for a graph which implements VertexInterface
-// 
-//
-
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 import java.util.List;

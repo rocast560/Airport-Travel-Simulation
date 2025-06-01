@@ -1,13 +1,3 @@
-//
-// Name: Castro, Roberto
-// Project 5
-// Due: Friday May 9, 2025
-// Course: cs-2400-03-sp25
-//
-// Description: MinHeapPriorityQueue implements the PriorityQueueInterface and has an inital capacity of 25
-// 
-//
-
 public class MinHeapPriorityQueue<T extends Comparable<? super T>> implements PriorityQueueInterface<T> {
 
 	private MinHeapInterface<T> minheap;

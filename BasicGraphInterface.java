@@ -1,13 +1,3 @@
-//
-// Name: Castro, Roberto
-// Project 5
-// Due: Friday May 9, 2025
-// Course: cs-2400-03-sp25
-//
-// Description: BasicGraphInterface which is implemented in GraphInterface for modifying a graph
-// 
-//
-
 /**
  * An interface of methods providing basic operations for directed and undirected graphs
  * that are either weighted or unweighted.

@@ -1,13 +1,3 @@
-//
-// Name: Castro, Roberto
-// Project 5
-// Due: Friday May 9, 2025
-// Course: cs-2400-03-sp25
-//
-// Description: MinHeap class which will be used with MinHeapPriorityQueue
-// 
-//
-
 import java.util.Arrays;
 
 public final class MinHeap<T extends Comparable<? super T>> implements MinHeapInterface<T>{

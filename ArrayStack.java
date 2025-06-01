@@ -1,13 +1,3 @@
-//
-// Name: Castro, Roberto
-// Project 5
-// Due: Friday May 9, 2025
-// Course: cs-2400-03-sp25
-//
-// Description: ArrayStack which implements a stack ADT with a array which is used to keep track of the routes in Flights.java
-// 
-//
-
 import java.util.Arrays;
 
 /** An array-based implementation of the ADT stack.

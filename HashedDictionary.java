@@ -1,13 +1,3 @@
-//
-// Name: Castro, Roberto
-// Project 5
-// Due: Friday May 9, 2025
-// Course: cs-2400-03-sp25
-//
-// Description: HashedDictionary class which implements DictionaryInterface and uses linear probing to resolve collisions
-// 
-//
-
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 

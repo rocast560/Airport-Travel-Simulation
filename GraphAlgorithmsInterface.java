@@ -1,13 +1,3 @@
-//
-// Name: Castro, Roberto
-// Project 5
-// Due: Friday May 9, 2025
-// Course: cs-2400-03-sp25
-//
-// Description: GraphAlgorithmsInterface specifies methods traversal required to be implemented to traverse a graph
-// 
-//
-
 public interface GraphAlgorithmsInterface<T> {
 	
 	/** Preforms a breadth-first traversal of this graph.

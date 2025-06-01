@@ -1,13 +1,3 @@
-//
-// Name: Castro, Roberto
-// Project 5
-// Due: Friday May 9, 2025
-// Course: cs-2400-03-sp25
-//
-// Description: PriorityQueueInterface specifies the methods that need to be implemented for any form of PriorityQueue
-// 
-//
-
 /** An interface for the ADT priority queue. */
 public interface PriorityQueueInterface<T extends Comparable<? super T>> {
 	/** Adds a new entry to this priority queue.

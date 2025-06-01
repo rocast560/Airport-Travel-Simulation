@@ -1,4 +1,4 @@
-# Simple-Airport-Travel-Simulation
+# Simple Airlines Route Optimizer
 
 Final project for my Data Structures & Algorithms class
 

@@ -1,4 +1,4 @@
-# Airport-Travel-Simulation
+# Simple-Airport-Travel-Simulation
 
 Final project for my Data Structures & Algorithms class
 

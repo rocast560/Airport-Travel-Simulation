@@ -1,13 +1,3 @@
-//
-// Name: Castro, Roberto
-// Project 5
-// Due: Friday May 9, 2025
-// Course: cs-2400-03-sp25
-//
-// Description: StackInterface is an interface with method specifications on methods required to implement a stack
-// 
-//
-
 import java.util.EmptyStackException;
 
 public interface StackInterface<T> {

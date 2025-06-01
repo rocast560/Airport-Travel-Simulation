@@ -1,13 +1,3 @@
-//
-// Name: Castro, Roberto
-// Project 5
-// Due: Friday May 9, 2025
-// Course: cs-2400-03-sp25
-//
-// Description: QueueInterface implements the methods required for a class to be a form of a Queue
-// 
-//
-
 /**
  * An interface for the ADT queue.
  */

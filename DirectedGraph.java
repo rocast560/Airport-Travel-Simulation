@@ -1,13 +1,3 @@
-//
-// Name: Castro, Roberto
-// Project 5
-// Due: Friday May 9, 2025
-// Course: cs-2400-03-sp25
-//
-// Description: DirectedGraph implements GraphInterface and gets the cheapest path 
-// 
-//
-
 import java.util.Iterator;
 
 public class DirectedGraph<T> implements GraphInterface<T> {

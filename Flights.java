@@ -1,13 +1,3 @@
-//
-// Name: Castro, Roberto
-// Project 5
-// Due: Friday May 9, 2025
-// Course: cs-2400-03-sp25
-//
-// Description: Displays a menu for the flights path and gets 
-// 
-//
-
 import java.util.Scanner;
 import java.io.File;
 import java.io.IOException;

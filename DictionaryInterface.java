@@ -1,13 +1,3 @@
-//
-// Name: Castro, Roberto
-// Project 5
-// Due: Friday May 9, 2025
-// Course: cs-2400-03-sp25
-//
-// Description: DictionaryInterface, which is used to implement HashedDictionary
-// 
-//
-
 import java.util.Iterator;
 public interface DictionaryInterface<K,V> {
 
